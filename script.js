@@ -37,6 +37,20 @@ pre {
   box-shadow: 0px 4px 0px 2px rgba(0,0,0,0.1);
 }
 
+/*
+ * 嘶
+ * 这个框框好窄
+ * 我先把它弄宽一点
+ * ƪ(˘⌣˘)ʃ
+ */
+
+/*
+ *  看我的 (～￣▽￣)-------------------------🤜
+ *  好像差了一点 (～￣▽￣)---------------------------🤜
+ *  再来一次 (～￣▽￣)--------------------------------------🤜
+ *  这样感觉不错了
+ */
+
 
 /*
  * 先在这里丢一头小胖龙
@@ -101,7 +115,7 @@ pre { left: 50%; width: 45%}
     width: 150px; height: 240px;
     background: #c66c75;
     border-radius: 150px 150px 0 0;
-    background-image: url(https://cos1-1317274315.cos.ap-beijing.myqcloud.com/webwxgetmsgimg.gif);
+    background-image: url(./images/webwxgetmsgimg.gif);
 }
 
 /*
@@ -132,7 +146,7 @@ pre { left: 50%; width: 45%}
  */
  
 #temp::before, #temp::after, #temp2::before, #temp2::after {
-    background-image: url(https://cos1-1317274315.cos.ap-beijing.myqcloud.com/7cab64f173210e279922d5377ac490a.jpg);
+    background-image: url(./images/7cab64f173210e279922d5377ac490a.jpg);
     background-size: contain;
 }
 
