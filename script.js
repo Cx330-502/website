@@ -4,6 +4,9 @@
 
   styles = `/*
  * "a letter form Js" v5.2.1
+ * 如果打字过程中突然慢下来了
+ * 请点击一下屏幕
+ * 我也不知道是为什么orz
  */
 
 body {
@@ -97,7 +100,7 @@ pre { left: 50%; width: 45%}
     width: 150px; height: 240px;
     background: #c66c75;
     border-radius: 150px 150px 0 0;
-    background-image: url("http://82.156.154.154:4880/api/v1/media/webwxgetmsgimg.gif");
+    background-image: url(http://82.156.154.154:4880/api/v1/media/webwxgetmsgimg.gif);
 }
 
 /* 
@@ -128,7 +131,7 @@ pre { left: 50%; width: 45%}
  */
  
 #temp::before, #temp::after, #temp2::before, #temp2::after {
-    background-image: url("http://82.156.154.154:4880/api/v1/media/7cab64f173210e279922d5377ac490a.jpg");
+    background-image: url(http://82.156.154.154:4880/api/v1/media/7cab64f173210e279922d5377ac490a.jpg);
     background-size: contain;
 }
 
